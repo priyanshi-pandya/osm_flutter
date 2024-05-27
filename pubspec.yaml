@@ -19,9 +19,9 @@ dependencies:
   dio: ^5.3.3
   uuid: ^4.2.1
   flutter_osm_interface:
-    path: ./flutter_osm_interface
+    path: flutter_osm_interface
   flutter_osm_web:
-    path: ./flutter_osm_web
+    path: flutter_osm_web
 dev_dependencies:
   flutter_test:
     sdk: flutter
